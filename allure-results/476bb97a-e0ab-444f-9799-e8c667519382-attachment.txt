@@ -1,0 +1,4 @@
+Error checking My Account page heading visibility: Error: locator.isVisible: Target page, context or browser has been closed
+Call log:
+    - checking visibility of locator('h2:has-text("My Account")')
+
